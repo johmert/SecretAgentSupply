@@ -172,4 +172,7 @@ footer {
     width: 90%;
     margin-bottom: 0.5rem;
   }
+  footer {
+    justify-content: center;
+  }
 }
